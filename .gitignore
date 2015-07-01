@@ -1,0 +1,5 @@
+/_build/
+/src/calx_lexer.erl
+*~
+calx_lexer.erl
+calx_parser.erl
